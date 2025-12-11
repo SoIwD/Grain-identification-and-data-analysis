@@ -1,7 +1,6 @@
 # Technical Process Documentation
 SoIwD 2025.07.27
-[English](README.md) | [简体中文](README_zh.md) 
-[example](example.md)
+[English](README.md) | [简体中文](README_zh.md) |[Example](example.md)
 
 <!-- Default language content -->
 This code is suitable for processing high-resolution metallographic images. It is particularly effective for images with low-contrast grain boundaries in dark regions.
