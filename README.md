@@ -1,8 +1,8 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/18deeb06-fd4b-4d17-841b-be586640f689" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/547bd979-6bba-4d94-949e-0d3c2aa0ae77" /># Technical Process Documentation
+# Technical Process Documentation
 SoIwD 2025.07.27
 [English](README.md) | [简体中文](README_zh.md)
 
-<!-- 默认语言内容 -->
+<!-- Default language content -->
 This code is suitable for processing high-resolution metallographic images. It is particularly effective for images with low-contrast grain boundaries in dark regions.
 The system adopts a block-based processing strategy, combined with a connected component algorithm, enabling accurate grain identification and data extraction (position, area, equivalent diameter).
 
