@@ -1,6 +1,6 @@
 <img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/18deeb06-fd4b-4d17-841b-be586640f689" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/547bd979-6bba-4d94-949e-0d3c2aa0ae77" /># Technical Process Documentation
 SoIwD 2025.07.27
-[English](README_en.md) | [简体中文](README_zh.md)
+[English](README.md) | [简体中文](README_zh.md)
 
 <!-- 默认语言内容 -->
 This code is suitable for processing high-resolution metallographic images. It is particularly effective for images with low-contrast grain boundaries in dark regions.
